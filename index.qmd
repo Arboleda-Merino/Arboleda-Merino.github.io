@@ -1,6 +1,6 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+title: "Laura Arboleda-Merino, MPH"
+description-meta: "PhD Candidate, University of Michigan "
 image: "files/images/placeholder4.JPG"
 page-navigation: false
 toc: false
@@ -25,7 +25,7 @@ about:
       href: mailto:email@gmail.com    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/larboleda-merino
       target: _blank
     - icon: youtube
       text: YouTube
